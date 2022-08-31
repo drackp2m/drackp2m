@@ -4,7 +4,7 @@
 
 I am a senior full-stack developer, currently working in Bit2me in the community of Castellón, Spain.
 
-With more than eight years of experience, along the way I have liked several technologies and projects, such as
+With more than eight years of experience, along the way I have liked several technologies and projects, among which stand out in recent years:
 - [NestJS](https://github.com/nestjs/nest)
 - [Angular](https://github.com/angular/angular)
 - [GraphQL](https://github.com/graphql/graphql-js)
