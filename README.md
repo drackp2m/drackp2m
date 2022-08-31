@@ -8,6 +8,7 @@ With more than eight years of experience, along the way I have liked several tec
 - [NestJS](https://github.com/nestjs/nest)
 - [Angular](https://github.com/angular/angular)
 - [GraphQL](https://github.com/graphql/graphql-js)
+- [MikroORM](https://github.com/mikro-orm/mikro-orm)
 - [Elf](https://github.com/ngneat/elf)
 - [Nx](https://github.com/nrwl/nx)
 
