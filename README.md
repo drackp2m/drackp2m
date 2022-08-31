@@ -1,4 +1,43 @@
-### Hi there 👋
+# I'm drackp2m, also known as Marc Jovaní González
+
+## About me
+
+I am a senior full-stack developer, currently working in Bit2me in the community of Castellón, Spain.
+
+With more than eight years of experience, along the way I have liked several technologies and projects, such as
+- [NestJS](https://github.com/nestjs/nest)
+- [Angular](https://github.com/angular/angular)
+- [GraphQL](https://github.com/graphql/graphql-js)
+- [Elf](https://github.com/ngneat/elf)
+- [Nx](https://github.com/nrwl/nx)
+
+Currently I continue to train and work hard to continue learning.
+
+## More about me
+
+If I have aroused your curiosity, you can find more about me at
+
+<div style="display: grid; grid-template-columns: 5rem 5rem; gap: 1rem; margin-bottom: 2rem">
+<a style="display: flex; flex-direction: column; align-items: center;" href="https://instagram.com/drackp2m" target="_blank">
+<picture>
+<source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/instagram.svg" media="(prefers-color-scheme: light)">
+<source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/instagram-dark.svg" media="(prefers-color-scheme: dark)">
+<img width="80">
+</picture>
+Instagram
+</a>
+
+<a style="display: flex; flex-direction: column; align-items: center;" href="https://linkedin.com/in/drackp2m" target="_blank">
+<picture>
+<source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/linkedin.svg" media="(prefers-color-scheme: light)">
+<source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/linkedin-dark.svg" media="(prefers-color-scheme: dark)">
+<img width="80">
+</picture>
+LinkedIn
+</a>
+</div>
+
+And remember, it's important to take every step in life... 🛀 with peace of mind.
 
 <!--
 **drackp2m/drackp2m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +52,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
