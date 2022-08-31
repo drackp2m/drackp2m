@@ -17,14 +17,12 @@ Currently I continue to train and work hard to continue learning.
 
 If I have aroused your curiosity, you can find more about me at
 
-<div style="display: grid; grid-template-columns: 5rem 5rem; gap: 1rem; margin-bottom: 2rem">
 <a style="display: flex; flex-direction: column; align-items: center;" href="https://instagram.com/drackp2m" target="_blank">
 <picture>
 <source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/instagram.svg" media="(prefers-color-scheme: light)">
 <source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/instagram-dark.svg" media="(prefers-color-scheme: dark)">
 <img width="80">
 </picture>
-Instagram
 </a>
 
 <a style="display: flex; flex-direction: column; align-items: center;" href="https://linkedin.com/in/drackp2m" target="_blank">
@@ -33,9 +31,7 @@ Instagram
 <source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/linkedin-dark.svg" media="(prefers-color-scheme: dark)">
 <img width="80">
 </picture>
-LinkedIn
 </a>
-</div>
 
 And remember, it's important to take every step in life... 🛀 with peace of mind.
 
