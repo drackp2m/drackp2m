@@ -5,8 +5,9 @@
 I am a senior full-stack developer, currently working in Bit2me in the community of Castellón, Spain.
 
 With more than eight years of experience, along the way I have liked several technologies and projects, among which stand out in recent years:
-- [NestJS](https://github.com/nestjs/nest)
 - [Angular](https://github.com/angular/angular)
+- [ngRx Signals](https://ngrx.io/guide/signals)
+- [NestJS](https://github.com/nestjs/nest)
 - [GraphQL](https://github.com/graphql/graphql-js)
 - [MikroORM](https://github.com/mikro-orm/mikro-orm)
 - [Elf](https://github.com/ngneat/elf)
@@ -17,14 +18,6 @@ Currently I continue to train and work hard to continue learning.
 ## More about me
 
 If I have aroused your curiosity, you can find more about me at
-
-<a style="display: flex; flex-direction: column; align-items: center;" href="https://instagram.com/drackp2m" target="_blank">
-<picture>
-<source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/instagram.svg" media="(prefers-color-scheme: light)">
-<source srcset="https://raw.githubusercontent.com/drackp2m/drackp2m/main/assets/instagram-dark.svg" media="(prefers-color-scheme: dark)">
-<img width="80">
-</picture>
-</a>
 
 <a style="display: flex; flex-direction: column; align-items: center;" href="https://linkedin.com/in/drackp2m" target="_blank">
 <picture>
